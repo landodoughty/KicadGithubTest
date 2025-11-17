@@ -2526,6 +2526,16 @@
 			(embedded_fonts no)
 		)
 	)
+	(text "THIS IS A TEST OF GITHUB THROUGH KICAD"
+		(exclude_from_sim no)
+		(at 202.946 128.27 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "052a61d9-8ecd-4d32-89d0-719d9dfced70")
+	)
 	(text "USB connection"
 		(exclude_from_sim no)
 		(at 172.466 54.61 0)
